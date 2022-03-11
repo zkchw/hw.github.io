@@ -1,5 +1,6 @@
 * 序章
     * [**大数据全家桶**](/study/大数据全家桶/README.md)
+    * [**组件部署**](/study/部署/README.md)
     * [**数据库**](/study/数据库/README)
     * [**Vue**](/study/Vue/README)
     * [**Java**](/study/Java/README)
